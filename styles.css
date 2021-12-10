@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+    background-color: #F9A8D4;
+    
+}
+
+label {
+    display: block;
+    padding: 2rem;
+    font-size: 150%;
+}
+
+#submit-btn {
+    padding: 0.2rem;
+    border-color:#60A5FA ;
+    border-radius: 0.5rem;
+    border: 2px solid purple;
+    color: purple;
+}
+
+#initial-price {
+    padding: 0.3rem;
+    border-radius: 0.5rem;
+    border-color:purple;
+    border: 3px solid purple;
+}
+
+#stocks-quantity {
+    padding: 0.3rem;
+    border-radius: 0.5rem;
+    border-color:purple;
+    border: 3px solid purple;
+}
+
+#current-price {
+    padding: 0.3rem;
+    border-radius: 0.5rem;
+    border-color:purple;
+    border: 3px solid purple;
+}
+
+
+#output-btn {
+    padding: 2rem;
+    font-size: 120%;
+    font-weight: 800;
+    
+}
